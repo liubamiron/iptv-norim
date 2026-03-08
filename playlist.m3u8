@@ -1,0 +1,571 @@
+#EXTM3U
+#EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj.png" tvg-rec="7" catchup-days="7",Первый канал
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1.png" tvg-rec="7" catchup-days="7",Россия 1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv.png" tvg-rec="7" catchup-days="7",НТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-mir.png" tvg-rec="7" catchup-days="7",НТВ Мир
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="http://de.russkoe-iptv.com:8080/streams/TNT.png" tvg-rec="7" catchup-days="7",ТНТ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/TNT.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tnt4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-4.png" tvg-rec="7" catchup-days="7",ТНТ4
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt4.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="CTC" tvg-logo="http://de.russkoe-iptv.com:8080/streams/CTC.png" tvg-rec="7" catchup-days="7",СТС
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/CTC.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sts-love" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sts-love.png" tvg-rec="7" catchup-days="7",СТС Love
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sts-love.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="domashnij" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnij.png" tvg-rec="7" catchup-days="7",Домашний
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/domashnij.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="perec" tvg-logo="http://de.russkoe-iptv.com:8080/streams/perec.png" tvg-rec="7" catchup-days="7",Перец
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/perec.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ren-tv.png" tvg-rec="7" catchup-days="7",РЕН ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ren-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tv3" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv-3.png" tvg-rec="7" catchup-days="7",ТВ3
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv3.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="4e" tvg-logo="http://de.russkoe-iptv.com:8080/streams/4e.png" tvg-rec="7" catchup-days="7",Че
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/4e.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda.png" tvg-rec="7" catchup-days="7",Звезда
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda-plus.png" tvg-rec="7" catchup-days="7",Звезда Плюс
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda-plus.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="tvc" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tvc.png" tvg-rec="7" catchup-days="7",ТВЦ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tvc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sankt-peterburg" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sankt-peterburg.png" tvg-rec="7" catchup-days="7",Санкт-Петербург
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sankt-peterburg.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="centralnoe-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/centralnoe-tv.png" tvg-rec="7" catchup-days="7",Центральное телевидение
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/centralnoe-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="5kanal" tvg-logo="http://de.russkoe-iptv.com:8080/streams/5kanal.png" tvg-rec="7" catchup-days="7",5 канал
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/5kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rossija-k" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija-k.png" tvg-rec="7" catchup-days="7",Россия Культура
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija-k.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="moskva-doverie" tvg-logo="http://de.russkoe-iptv.com:8080/streams/moskva-doverie.png" tvg-rec="7" catchup-days="7",Москва Доверие
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/moskva-doverie.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="souz" tvg-logo="http://de.russkoe-iptv.com:8080/streams/souz.png" tvg-rec="7" catchup-days="7",Союз
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/souz.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="spas" tvg-logo="http://de.russkoe-iptv.com:8080/streams/spas.png" tvg-rec="7" catchup-days="7",Спас
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/spas.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="krasnaja-linija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/krasnaja-linija.png" tvg-rec="7" catchup-days="7",Красная линия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/krasnaja-linija.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="8-kanal" tvg-logo="http://de.russkoe-iptv.com:8080/streams/8-kanal.png" tvg-rec="7" catchup-days="7",8 канал
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/8-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="9-kanal" tvg-logo="http://de.russkoe-iptv.com:8080/streams/9-kanal.png" tvg-rec="7" catchup-days="7",9 Канал
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/9-kanal.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="otp" tvg-logo="http://de.russkoe-iptv.com:8080/streams/otp.png" tvg-rec="7" catchup-days="7",ОТР
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/otp.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mir.png" tvg-rec="7" catchup-days="7",Мир
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mir.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="mir-24" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mir-24.png" tvg-rec="7" catchup-days="7",Мир 24
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mir-24.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="sarafan" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sarafan.png" tvg-rec="7" catchup-days="7",Сарафан
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sarafan.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="gagsnetwork" tvg-logo="http://de.russkoe-iptv.com:8080/streams/gagsnetwork.png" tvg-rec="7" catchup-days="7",Gagsnetwork
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/gagsnetwork.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="kvn-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kvn-tv.png" tvg-rec="7" catchup-days="7",КВН ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kvn-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="piatnica" tvg-logo="http://de.russkoe-iptv.com:8080/streams/piatnica.png" tvg-rec="7" catchup-days="7",Пятница
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/piatnica.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="super" tvg-logo="http://de.russkoe-iptv.com:8080/streams/super.png" tvg-rec="7" catchup-days="7",Суббота
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/super.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="yu-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/yu-tv.png" tvg-rec="7" catchup-days="7",Ю ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/yu-tv.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="telekanal-360" tvg-logo="http://de.russkoe-iptv.com:8080/streams/podmoskovje.png" tvg-rec="7" catchup-days="7",Телеканал 360
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/telekanal-360.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="vremya" tvg-logo="http://de.russkoe-iptv.com:8080/streams/vremya.png" tvg-rec="7" catchup-days="7",Время
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/vremya.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="russia-today-doc" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rt-doc.png" tvg-rec="7" catchup-days="7",RT Док
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russia-today-doc.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="rtvi" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rtvi.png" tvg-rec="7" catchup-days="7",RTVi
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rtvi.m3u8
+#EXTINF:0 group-title="Общероссийские" tvg-id="dozhd" tvg-logo="http://de.russkoe-iptv.com:8080/streams/dozhd.png" tvg-rec="7" catchup-days="7",Дождь
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/dozhd.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rossija24" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija24.png" tvg-rec="7" catchup-days="7",Россия 24
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="evronews" tvg-logo="http://de.russkoe-iptv.com:8080/streams/evronews.png" tvg-rec="0" catchup-days="0",EuroNews
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/evronews.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="izvestija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/izvestija.png" tvg-rec="0" catchup-days="0",Известия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/izvestija.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="moskva-24" tvg-logo="http://de.russkoe-iptv.com:8080/streams/moskva-24.png" tvg-rec="0" catchup-days="0",Москва 24
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/moskva-24.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="rbk" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rbk.png" tvg-rec="7" catchup-days="7",РБК
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rbk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="russia-today" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rt-english.png" tvg-rec="0" catchup-days="0",RT
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russia-today.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="deutsche-welle" tvg-logo="http://de.russkoe-iptv.com:8080/streams/deutsche-welle.png" tvg-rec="0" catchup-days="0",DW Russian
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/deutsche-welle.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sky-news-uk.png" tvg-rec="0" catchup-days="0",Sky News
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sky-news-uk.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="cnn" tvg-logo="http://de.russkoe-iptv.com:8080/streams/cnn.png" tvg-rec="0" catchup-days="0",CNN
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/cnn.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="bbc-world-news" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bbc-world-news.png" tvg-rec="0" catchup-days="0",BBC News
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bbc-world-news.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinohit.png" tvg-rec="7" catchup-days="7",Кинохит
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinohit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinomix" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinomix.png" tvg-rec="7" catchup-days="7",Киномикс
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinomix.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosemja" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinosemja.png" tvg-rec="7" catchup-days="7",Киносемья
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinosemja.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinosvidanije" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinosvidanije.png" tvg-rec="7" catchup-days="7",Киносвидание
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinosvidanije.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mnogo-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mnogo-tv.png" tvg-rec="7" catchup-days="7",Киносерия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mnogo-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinopokaz" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinopokaz.png" tvg-rec="7" catchup-days="7",Кинопоказ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinopokaz.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv1000.png" tvg-rec="7" catchup-days="7",Viju TV1000
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv1000.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-action" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv1000-action.png" tvg-rec="7" catchup-days="7",Viju TV1000 action
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv1000-action.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-russkoje" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv1000-ru-kino.png" tvg-rec="7" catchup-days="7",Viju TV1000 русское
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv1000-russkoje.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv1000-world-kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv1000-world-kino.png" tvg-rec="7" catchup-days="7",Viasat Kino World
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv1000-world-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="cinema" tvg-logo="http://de.russkoe-iptv.com:8080/streams/cinema.png" tvg-rec="7" catchup-days="7",Cinema
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/cinema.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kino-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kino-tv.png" tvg-rec="7" catchup-days="7",Кино ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kino-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-world" tvg-logo="http://de.russkoe-iptv.com:8080/streams/start-world.png" tvg-rec="7" catchup-days="7",Start World
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/start-world.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="start-air" tvg-logo="http://de.russkoe-iptv.com:8080/streams/start-air.png" tvg-rec="7" catchup-days="7",Start Air
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/start-air.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="plan-b" tvg-logo="http://de.russkoe-iptv.com:8080/streams/plan-b.png" tvg-rec="7" catchup-days="7",Plan B
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/plan-b.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="evrokino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/evrokino.png" tvg-rec="7" catchup-days="7",Еврокино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/evrokino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="flix-snip" tvg-logo="http://de.russkoe-iptv.com:8080/streams/flix-snip.png" tvg-rec="7" catchup-days="7",Flix Snip
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/flix-snip.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="egoist-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/egoist-tv.png" tvg-rec="7" catchup-days="7",SHOT TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/egoist-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="muzhskoe-kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/muzhskoe-kino.png" tvg-rec="7" catchup-days="7",Мужское кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/muzhskoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="Scream" tvg-logo="http://de.russkoe-iptv.com:8080/streams/Scream.png" tvg-rec="7" catchup-days="7",Scream
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/Scream.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="hct" tvg-logo="http://de.russkoe-iptv.com:8080/streams/hct.png" tvg-rec="7" catchup-days="7",НСТ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/hct.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkaja-comedija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/russkaja-comedija.png" tvg-rec="7" catchup-days="7",Комедия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russkaja-comedija.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="kinokomedia" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinokomedia.png" tvg-rec="7" catchup-days="7",Кинокомедия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinokomedia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-premium" tvg-logo="http://de.russkoe-iptv.com:8080/streams/amedia-premium.png" tvg-rec="7" catchup-days="7",Amedia Premium
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/amedia-premium.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-hit" tvg-logo="http://de.russkoe-iptv.com:8080/streams/amedia-hit.png" tvg-rec="7" catchup-days="7",Amedia Hit
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/amedia-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia1" tvg-logo="http://de.russkoe-iptv.com:8080/streams/amedia-1.png" tvg-rec="7" catchup-days="7",A1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/amedia1.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="amedia-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/amedia-2.png" tvg-rec="7" catchup-days="7",A2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/amedia-2.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox" tvg-logo="http://de.russkoe-iptv.com:8080/streams/fox.png" tvg-rec="7" catchup-days="7",FX
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/fox.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="fox-life" tvg-logo="http://de.russkoe-iptv.com:8080/streams/fox-life.png" tvg-rec="7" catchup-days="7",FX Life
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/fox-life.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="set" tvg-logo="http://de.russkoe-iptv.com:8080/streams/set.png" tvg-rec="7" catchup-days="7",Red
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/set.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="sci-fi" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sony-sci-fi.png" tvg-rec="7" catchup-days="7",Sci-Fi
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sci-fi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="black" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sony-turbo.png" tvg-rec="7" catchup-days="7",Black
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/black.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="tv-xxi" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv-xxi.png" tvg-rec="7" catchup-days="7",ТВ21
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv-xxi.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mosfilm" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mosfilm.png" tvg-rec="7" catchup-days="7",Мосфильм
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mosfilm.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="lubimoe-kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/lubimoe-kino.png" tvg-rec="7" catchup-days="7",Любимое Кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/lubimoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="rodnoje_kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rodnoje_kino.png" tvg-rec="7" catchup-days="7",Родное кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rodnoje_kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="patriot" tvg-logo="http://de.russkoe-iptv.com:8080/streams/patriot.png" tvg-rec="7" catchup-days="7",Патриот
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/patriot.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="pobeda" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pobeda.png" tvg-rec="7" catchup-days="7",Победа
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pobeda.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nashe-novoe-kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nashe-novoe-kino.png" tvg-rec="7" catchup-days="7",Наше новое кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nashe-novoe-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-bestseller" tvg-logo="http://de.russkoe-iptv.com:8080/streams/russkij-bestseller.png" tvg-rec="7" catchup-days="7",Русский Бестселлер
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russkij-bestseller.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="telekafe" tvg-logo="http://de.russkoe-iptv.com:8080/streams/telekafe.png" tvg-rec="7" catchup-days="7",Телекафе
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/telekafe.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="dom-kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/dom-kino.png" tvg-rec="7" catchup-days="7",Дом Кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/dom-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-roman" tvg-logo="http://de.russkoe-iptv.com:8080/streams/russkij-roman.png" tvg-rec="7" catchup-days="7",Русский Роман
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russkij-roman.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-detektiv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/russkij-detektiv.png" tvg-rec="7" catchup-days="7",Русский Детектив
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russkij-detektiv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="russkij-iluzion" tvg-logo="http://de.russkoe-iptv.com:8080/streams/russkij-iluzion.png" tvg-rec="7" catchup-days="7",Русский Иллюзион
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russkij-iluzion.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="iluzion-plus" tvg-logo="http://de.russkoe-iptv.com:8080/streams/iluzion-plus.png" tvg-rec="7" catchup-days="7",Иллюзион +
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/iluzion-plus.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="feniks-plus-kino" tvg-logo="http://de.russkoe-iptv.com:8080/streams/feniks-plus-kino.png" tvg-rec="7" catchup-days="7",Феникс+Кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/feniks-plus-kino.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="mir-seriala" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mir-seriala.png" tvg-rec="7" catchup-days="7",Мир Сериала
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mir-seriala.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-hit" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-hit.png" tvg-rec="7" catchup-days="7",НТВ Хит
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-hit.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="ntv-serial" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-serial.png" tvg-rec="7" catchup-days="7",НТВ Сериал
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-serial.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="nostalgia" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nostalgia.png" tvg-rec="7" catchup-days="7",Ностальгия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nostalgia.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="retro" tvg-logo="http://de.russkoe-iptv.com:8080/streams/retro.png" tvg-rec="7" catchup-days="7",Ретро ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/retro.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="indija-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/indija-tv.png" tvg-rec="7" catchup-days="7",Индийское Кино
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/indija-tv.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="zee-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zee-tv.png" tvg-rec="7" catchup-days="7",Индия ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zee-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="nash-futbol" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nash-futbol.png" tvg-rec="7" catchup-days="7",Матч Премьер
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nash-futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="futbol" tvg-logo="http://de.russkoe-iptv.com:8080/streams/futbol.png" tvg-rec="7" catchup-days="7",Футбол
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/futbol.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-1" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-futbol-1.png" tvg-rec="7" catchup-days="7",МАТЧ! Футбол 1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-futbol-1.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-futbol-2.png" tvg-rec="7" catchup-days="7",МАТЧ! Футбол 2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-futbol-2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-futbol-3" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-futbol-3.png" tvg-rec="7" catchup-days="7",МАТЧ! Футбол 3
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-futbol-3.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match.png" tvg-rec="7" catchup-days="7",Матч ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-igra" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-igra.png" tvg-rec="7" catchup-days="7",Матч! Игра
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-igra.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-arena" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-arena.png" tvg-rec="7" catchup-days="7",Матч! Арена
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-arena.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-strana" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-nash-sport.png" tvg-rec="7" catchup-days="7",Матч! Страна
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-strana.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="khl-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/khl-tv.png" tvg-rec="7" catchup-days="7",KHL
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/khl-tv.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="viasat-sport" tvg-logo="http://de.russkoe-iptv.com:8080/streams/viasat-sport.png" tvg-rec="7" catchup-days="7",Viju+ sport
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/viasat-sport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport" tvg-logo="http://de.russkoe-iptv.com:8080/streams/evrosport.png" tvg-rec="7" catchup-days="7",Eurosport 1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/eurosport.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="eurosport2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/evrosport-2.png" tvg-rec="7" catchup-days="7",Eurosport 2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/eurosport2.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="belarus5-by" tvg-logo="http://de.russkoe-iptv.com:8080/streams/belarus5.png" tvg-rec="7" catchup-days="7",Беларусь 5
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/belarus5-by.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport1-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sport1-ua.png" tvg-rec="7" catchup-days="7",Спорт 1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sport1-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="sport2-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sport2-ua.png" tvg-rec="7" catchup-days="7",Спорт 2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sport2-ua.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="m1-global" tvg-logo="http://de.russkoe-iptv.com:8080/streams/m1-global-tv.png" tvg-rec="7" catchup-days="7",MMA-TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/m1-global.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="match-boec" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-boec.png" tvg-rec="7" catchup-days="7",МАТЧ! Боец
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-boec.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="tochka-otryva" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tochka-otryva.png" tvg-rec="0" catchup-days="0",Точка Отрыва
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tochka-otryva.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="extreme-sports" tvg-logo="http://de.russkoe-iptv.com:8080/streams/extreme-sports.png" tvg-rec="0" catchup-days="0",Extreme Sports
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/extreme-sports.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detskij-mir" tvg-logo="http://de.russkoe-iptv.com:8080/streams/detskij-mir.png" tvg-rec="7" catchup-days="7",Детский мир
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/detskij-mir.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="karusel" tvg-logo="http://de.russkoe-iptv.com:8080/streams/karusel.png" tvg-rec="7" catchup-days="7",Карусель
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/karusel.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gosti-skazka" tvg-logo="http://de.russkoe-iptv.com:8080/streams/gosti-skazka.png" tvg-rec="7" catchup-days="7",В гостях у сказки
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/gosti-skazka.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="mult" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mult.png" tvg-rec="7" catchup-days="7",Мульт
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mult.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kinomult" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinomult.png" tvg-rec="7" catchup-days="7",КиноМульт
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kinomult.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="multimania" tvg-logo="http://de.russkoe-iptv.com:8080/streams/multimania.png" tvg-rec="7" catchup-days="7",Мультиландия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/multimania.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="strana" tvg-logo="http://de.russkoe-iptv.com:8080/streams/strana.png" tvg-rec="7" catchup-days="7",Мультимузыка
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/strana.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="baby-time" tvg-logo="http://de.russkoe-iptv.com:8080/streams/baby-time.png" tvg-rec="7" catchup-days="7",Baby Time
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/baby-time.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ctc-kids" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ctc-kids.png" tvg-rec="7" catchup-days="7",СТС Kids
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ctc-kids.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ryzhij" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ryzhij.png" tvg-rec="7" catchup-days="7",Рыжий
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ryzhij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="detksij" tvg-logo="http://de.russkoe-iptv.com:8080/streams/detksij.png" tvg-rec="7" catchup-days="7",Уникум
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/detksij.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="solnce" tvg-logo="http://de.russkoe-iptv.com:8080/streams/solnce.png" tvg-rec="7" catchup-days="7",Солнце
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/solnce.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="kanal-o" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kanal-o.png" tvg-rec="7" catchup-days="7",О!
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kanal-o.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickelodeon" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nickelodeon.png" tvg-rec="7" catchup-days="7",Nickelodeon
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nickelodeon.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nicktoons" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nicktoons.png" tvg-rec="7" catchup-days="7",Nicktoons
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nicktoons.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-network" tvg-logo="http://de.russkoe-iptv.com:8080/streams/cartoon-network.png" tvg-rec="7" catchup-days="7",Cartoon Network
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/cartoon-network.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="cartoon-classics" tvg-logo="http://de.russkoe-iptv.com:8080/streams/cartoon-classics.png" tvg-rec="7" catchup-days="7",Cartoon Classics
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/cartoon-classics.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="nickjr" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nickjr.png" tvg-rec="7" catchup-days="7",Nick Jr
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nickjr.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="tiji" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tiji.png" tvg-rec="7" catchup-days="7",TiJi
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tiji.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="gulli" tvg-logo="http://de.russkoe-iptv.com:8080/streams/gulli.png" tvg-rec="7" catchup-days="7",Gulli Girl
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/gulli.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="ani" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ani.png" tvg-rec="7" catchup-days="7",Ani
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ani.m3u8
+#EXTINF:0 group-title="Мультфильмы" tvg-id="2x2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/2x2.png" tvg-rec="7" catchup-days="7",2x2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/2x2.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo" tvg-logo="http://de.russkoe-iptv.com:8080/streams/national-geographic.png" tvg-rec="7" catchup-days="7",National Geographic
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nat-geo.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="discovery" tvg-logo="http://de.russkoe-iptv.com:8080/streams/discovery.png" tvg-rec="7" catchup-days="7",Discovery Channel
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/discovery.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="id-xtra" tvg-logo="http://de.russkoe-iptv.com:8080/streams/id-xtra.png" tvg-rec="7" catchup-days="7",Investigation Discovery
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/id-xtra.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-history" tvg-logo="http://de.russkoe-iptv.com:8080/streams/viasat-history.png" tvg-rec="7" catchup-days="7",Viju history
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/viasat-history.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="tlc" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tlc.png" tvg-rec="7" catchup-days="7",TLC
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tlc.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="animal-planet" tvg-logo="http://de.russkoe-iptv.com:8080/streams/animal-planet.png" tvg-rec="7" catchup-days="7",Animal planet
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/animal-planet.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nat-geo-wild" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nat-geo-wild.png" tvg-rec="7" catchup-days="7",Nat Geo Wild
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nat-geo-wild.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-nature" tvg-logo="http://de.russkoe-iptv.com:8080/streams/viasat-nature.png" tvg-rec="7" catchup-days="7",Viju nature
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/viasat-nature.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="viasat-explore" tvg-logo="http://de.russkoe-iptv.com:8080/streams/viasat-explorer.png" tvg-rec="7" catchup-days="7",Viju explore
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/viasat-explore.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="moya-planeta" tvg-logo="http://de.russkoe-iptv.com:8080/streams/moya-planeta.png" tvg-rec="7" catchup-days="7",Моя планета
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/moya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivaya-planeta" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zhivaya-planeta.png" tvg-rec="7" catchup-days="7",Живая Планета
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zhivaya-planeta.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ocean-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ocean-tv.png" tvg-rec="7" catchup-days="7",Ocean-TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ocean-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zoopark" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zoopark.png" tvg-rec="7" catchup-days="7",Zooпарк
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zoopark.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-channel" tvg-logo="http://de.russkoe-iptv.com:8080/streams/travel-channel.png" tvg-rec="7" catchup-days="7",Travel Channel
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/travel-channel.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="travel-adventure" tvg-logo="http://de.russkoe-iptv.com:8080/streams/travel-adventure.png" tvg-rec="7" catchup-days="7",Travel+Adventure
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/travel-adventure.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="teleputeshestvija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/teleputeshestvija.png" tvg-rec="7" catchup-days="7",Телепутешествия
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/teleputeshestvija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="rtg" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rtg-tv.png" tvg-rec="7" catchup-days="7",RTG
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rtg.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="t24" tvg-logo="http://de.russkoe-iptv.com:8080/streams/t24.png" tvg-rec="7" catchup-days="7",Техно 24
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/t24.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nauka" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nauka-20.png" tvg-rec="7" catchup-days="7",Наука
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nauka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="da-vinci-learning" tvg-logo="http://de.russkoe-iptv.com:8080/streams/da-vinci-learning.png" tvg-rec="7" catchup-days="7",Da Vinci
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/da-vinci-learning.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="nasha-tema" tvg-logo="http://de.russkoe-iptv.com:8080/streams/nasha-tema.png" tvg-rec="7" catchup-days="7",Наша Тема
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/nasha-tema.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="dialogi-rybalka" tvg-logo="http://de.russkoe-iptv.com:8080/streams/dialogi-rybalka.png" tvg-rec="7" catchup-days="7",Диалоги о Рыбалке
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/dialogi-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oxota-rybalka" tvg-logo="http://de.russkoe-iptv.com:8080/streams/oxota-rybalka.png" tvg-rec="7" catchup-days="7",Охота и рыбалка
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/oxota-rybalka.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ohotnik-rybolov" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ohotnik-rybolov.png" tvg-rec="7" catchup-days="7",Рыболов
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ohotnik-rybolov.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="oruzhie" tvg-logo="http://de.russkoe-iptv.com:8080/streams/oruzhie.png" tvg-rec="7" catchup-days="7",Оружие
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/oruzhie.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="muzhskoj" tvg-logo="http://de.russkoe-iptv.com:8080/streams/muzhskoj.png" tvg-rec="7" catchup-days="7",Мужской
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/muzhskoj.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-pravo" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-pravo.png" tvg-rec="7" catchup-days="7",НТВ Право
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-pravo.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="ntv-style" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-style.png" tvg-rec="7" catchup-days="7",НТВ Стиль
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-style.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="usadba" tvg-logo="http://de.russkoe-iptv.com:8080/streams/usadba.png" tvg-rec="7" catchup-days="7",Усадьба
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/usadba.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="bober" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bober.png" tvg-rec="7" catchup-days="7",Бобер
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bober.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="istorija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/istorija.png" tvg-rec="7" catchup-days="7",История
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/istorija.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="365-dnej" tvg-logo="http://de.russkoe-iptv.com:8080/streams/365-dnej.png" tvg-rec="7" catchup-days="7",365 Дней
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/365-dnej.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kto-est-kto" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kto-est-kto.png" tvg-rec="7" catchup-days="7",Кто есть кто
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kto-est-kto.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="sovershenno-sekretno" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sovershenno-sekretno.png" tvg-rec="7" catchup-days="7",Top Secret
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sovershenno-sekretno.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="voprosy-otvety" tvg-logo="http://de.russkoe-iptv.com:8080/streams/voprosy-otvety.png" tvg-rec="7" catchup-days="7",Вопросы и ответы
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/voprosy-otvety.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="domashnije-zhivotnye" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnije-zhivotnye.png" tvg-rec="7" catchup-days="7",Домашние животные
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/domashnije-zhivotnye.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zdorovoe-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zdorovoe-tv.png" tvg-rec="7" catchup-days="7",Доктор
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zdorovoe-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="zhivi" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zhivi.png" tvg-rec="7" catchup-days="7",Живи
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zhivi.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="kuxnya-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kuxnya-tv.png" tvg-rec="7" catchup-days="7",Кухня ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kuxnya-tv.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-id="eda" tvg-logo="http://de.russkoe-iptv.com:8080/streams/eda.png" tvg-rec="7" catchup-days="7",Еда
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/eda.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muzyka-pervogo" tvg-logo="http://de.russkoe-iptv.com:8080/streams/muzyka-pervogo.png" tvg-rec="0" catchup-days="0",Музыка Первого
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/muzyka-pervogo.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="ru-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ru-tv.png" tvg-rec="0" catchup-days="0",RU TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ru-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="muz-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/muz-tv.png" tvg-rec="0" catchup-days="0",Муз-ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/muz-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="evropa-plus-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/evropa-plus-tv.png" tvg-rec="0" catchup-days="0",Europa Plus TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/evropa-plus-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="zhara" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zhara.png" tvg-rec="0" catchup-days="0",Жара
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zhara.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="tnt-music" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-music.png" tvg-rec="0" catchup-days="0",FON Music
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt-music.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="russian-musicbox" tvg-logo="http://de.russkoe-iptv.com:8080/streams/music-box-russian.png" tvg-rec="0" catchup-days="0",Russian MusicBox
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russian-musicbox.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="music-box-gold" tvg-logo="http://de.russkoe-iptv.com:8080/streams/music-box-gold.png" tvg-rec="0" catchup-days="0",Music Box Gold
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/music-box-gold.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bridge-tv.png" tvg-rec="0" catchup-days="0",Bridge TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bridge-tv.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hits" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bridge-tv-hits.png" tvg-rec="0" catchup-days="0",Bridge TV Hits
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bridge-tv-hits.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-hits-hd" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bridge-tv-hits-hd.png" tvg-rec="0" catchup-days="0",Bridge TV Hits HD
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bridge-tv-hits-hd.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-russky-hit" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bridge-tv-russky-hit.png" tvg-rec="0" catchup-days="0",Bridge TV Русский Хит
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bridge-tv-russky-hit.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-classic" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bridge-classic.png" tvg-rec="0" catchup-days="0",Bridge TV Classic
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bridge-classic.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="bridge-tv-rock" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bridge-tv-rock.png" tvg-rec="0" catchup-days="0",Bridge TV Rock
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bridge-tv-rock.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="vh1-europe" tvg-logo="http://de.russkoe-iptv.com:8080/streams/vh1-europe.png" tvg-rec="0" catchup-days="0",MTV 00s
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/vh1-europe.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="mcm-top" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mcm.png" tvg-rec="0" catchup-days="0",MCM TOP
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mcm-top.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="la-minor" tvg-logo="http://de.russkoe-iptv.com:8080/streams/la-minor.png" tvg-rec="0" catchup-days="0",Музыка Live
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/la-minor.m3u8
+#EXTINF:0 group-title="Музыкальные" tvg-id="shanson-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/shanson-tv.png" tvg-rec="0" catchup-days="0",Шансон ТВ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/shanson-tv.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erox" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erox.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erox
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erox.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="super-one" tvg-logo="http://de.russkoe-iptv.com:8080/streams/super-one.png" tvg-rec="0" catchup-days="0" parent-code="0000",SuperOne
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/super-one.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="vivid-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/vivid-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",Vivid TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/vivid-tv.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="vivid-red" tvg-logo="http://de.russkoe-iptv.com:8080/streams/vivid-red.png" tvg-rec="0" catchup-days="0" parent-code="0000",Vivid Red
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/vivid-red.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="blue-hustler" tvg-logo="http://de.russkoe-iptv.com:8080/streams/blue-hustler.png" tvg-rec="0" catchup-days="0" parent-code="0000",Blue Hustler
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/blue-hustler.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="barely-legal" tvg-logo="http://de.russkoe-iptv.com:8080/streams/barely-legal.png" tvg-rec="0" catchup-days="0" parent-code="0000",Barely Legal TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/barely-legal.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="ruskaja-noch" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ruskaja-noch.png" tvg-rec="0" catchup-days="0" parent-code="0000",Русская Ночь
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ruskaja-noch.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="playboy-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/playboy-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",Playboy TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/playboy-tv.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="oboz-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/oboz-ua.png" tvg-rec="7" catchup-days="7",OBOZ TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/oboz-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ntn-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntn.png" tvg-rec="7" catchup-days="7",НТН
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntn-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tet-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tet.png" tvg-rec="7" catchup-days="7",ТЕТ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tet-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="espresso-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/plus-plus.png" tvg-rec="7" catchup-days="7",Eспресо TV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/espresso-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="tonis-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tonis-ua.png" tvg-rec="7" catchup-days="7",Прямий
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tonis-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="k1-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/k1-ua.png" tvg-rec="7" catchup-days="7",K1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/k1-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="5kanal-ukraina" tvg-logo="http://de.russkoe-iptv.com:8080/streams/5kanal-ukraina.png" tvg-rec="7" catchup-days="7",5 канал UA
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/5kanal-ukraina.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="enter-film-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/enter-film-ua.png" tvg-rec="7" catchup-days="7",Enter-фільм
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/enter-film-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="ictv-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ictv.png" tvg-rec="7" catchup-days="7",ICTV
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ictv-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="stb-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/stb.png" tvg-rec="7" catchup-days="7",СТБ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/stb-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="pervyj-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj-national-ua.png" tvg-rec="7" catchup-days="7",Перший Національний
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="inter-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/inter.png" tvg-rec="7" catchup-days="7",Интер
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/inter-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="1-plus-1" tvg-logo="http://de.russkoe-iptv.com:8080/streams/1-plus-1.png" tvg-rec="7" catchup-days="7",1+1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/1-plus-1.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="2-plus-2-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/2-plus-2-ua.png" tvg-rec="7" catchup-days="7",2+2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/2-plus-2-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="bigudi-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bigudi.png" tvg-rec="7" catchup-days="7",Бигуди
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bigudi-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="novyj-kanal-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/novij-kanal.png" tvg-rec="7" catchup-days="7",Новый Канал
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/novyj-kanal-ua.m3u8
+#EXTINF:0 group-title="Украина" tvg-id="kus-kus-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kus-kus-ua.png" tvg-rec="7" catchup-days="7",Кус-Кус
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/kus-kus-ua.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus1-by" tvg-logo="http://de.russkoe-iptv.com:8080/streams/belarus1-by.png" tvg-rec="7" catchup-days="7",Беларусь 1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/belarus1-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus2-by" tvg-logo="http://de.russkoe-iptv.com:8080/streams/belarus2.png" tvg-rec="7" catchup-days="7",Беларусь 2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/belarus2-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus3-by" tvg-logo="http://de.russkoe-iptv.com:8080/streams/belarus3-by.png" tvg-rec="7" catchup-days="7",Беларусь 3
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/belarus3-by.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="belarus-24" tvg-logo="http://de.russkoe-iptv.com:8080/streams/belarus-24.png" tvg-rec="0" catchup-days="0",Беларусь 24
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/belarus-24.m3u8
+#EXTINF:0 group-title="Беларусь" tvg-id="ont-by" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ont-by.png" tvg-rec="7" catchup-days="7",ОНТ
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ont-by.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="pervyj-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj-plus-2.png" tvg-rec="7" catchup-days="7",Первый канал (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rossija1-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1-plus-2.png" tvg-rec="7" catchup-days="7",Россия 1 (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija1-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="ntv-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-plus-2.png" tvg-rec="7" catchup-days="7",НТВ (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tnt-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-plus-2.png" tvg-rec="7" catchup-days="7",ТНТ (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rentv-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rentv-plus-2.png" tvg-rec="7" catchup-days="7",РЕН ТВ (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rentv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="sts-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sts-plus-2.png" tvg-rec="7" catchup-days="7",СТС (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sts-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="domashnij-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnij-plus-2.png" tvg-rec="7" catchup-days="7",Домашний (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/domashnij-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="piatnica-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/piatnica-plus-2.png" tvg-rec="7" catchup-days="7",Пятница (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/piatnica-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="yu-tv-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/yu-tv-plus-2.png" tvg-rec="7" catchup-days="7",Ю ТВ (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/yu-tv-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tv3-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv3-plus-2.png" tvg-rec="7" catchup-days="7",ТВ3 (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv3-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="tvc-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tvc-plus-2.png" tvg-rec="7" catchup-days="7",ТВЦ (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tvc-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="zvezda-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda-plus-2.png" tvg-rec="7" catchup-days="7",Звезда (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="5kanal-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/5kanal-plus-2.png" tvg-rec="7" catchup-days="7",5 канал (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/5kanal-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="mir-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mir-plus-2.png" tvg-rec="7" catchup-days="7",Мир (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mir-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="otp-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/otp-plus-2.png" tvg-rec="7" catchup-days="7",ОТР (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/otp-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="rossija-k-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija-k-plus-2.png" tvg-rec="7" catchup-days="7",Россия Культура (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija-k-plus-2.m3u8
+#EXTINF:0 group-title="Россия +2ч" tvg-id="match-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-plus-2.png" tvg-rec="7" catchup-days="7",Матч ТВ (+2)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-plus-2.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="pervyj-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj-plus-4.png" tvg-rec="7" catchup-days="7",Первый канал (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rossija1-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1-plus-4.png" tvg-rec="7" catchup-days="7",Россия 1 (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija1-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="ntv-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-plus-4.png" tvg-rec="7" catchup-days="7",НТВ (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tnt-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-plus-4.png" tvg-rec="7" catchup-days="7",ТНТ (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rentv-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rentv-plus-4.png" tvg-rec="7" catchup-days="7",РЕН ТВ (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rentv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="sts-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sts-plus-4.png" tvg-rec="7" catchup-days="7",СТС (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sts-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="domashnij-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnij-plus-4.png" tvg-rec="7" catchup-days="7",Домашний (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/domashnij-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="piatnica-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/piatnica-plus-4.png" tvg-rec="7" catchup-days="7",Пятница (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/piatnica-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="yu-tv-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/yu-tv-plus-4.png" tvg-rec="7" catchup-days="7",Ю ТВ (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/yu-tv-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tv3-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv3-plus-4.png" tvg-rec="7" catchup-days="7",ТВ3 (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv3-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="tvc-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tvc-plus-4.png" tvg-rec="7" catchup-days="7",ТВЦ (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tvc-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="zvezda-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda-plus-4.png" tvg-rec="7" catchup-days="7",Звезда (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="5kanal-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/5kanal-plus-4.png" tvg-rec="7" catchup-days="7",5 канал (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/5kanal-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="mir-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mir-plus-4.png" tvg-rec="7" catchup-days="7",Мир (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mir-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="otp-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/otp-plus-4.png" tvg-rec="7" catchup-days="7",ОТР (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/otp-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="rossija-k-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija-k-plus-4.png" tvg-rec="7" catchup-days="7",Россия Культура (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija-k-plus-4.m3u8
+#EXTINF:0 group-title="Россия +4ч" tvg-id="match-plus-4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-plus-4.png" tvg-rec="7" catchup-days="7",Матч ТВ (+4)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-plus-4.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="pervyj-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj-plus-7.png" tvg-rec="7" catchup-days="7",Первый канал (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="rossija1-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1-plus-7.png" tvg-rec="7" catchup-days="7",Россия 1 (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija1-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="ntv-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-plus-7.png" tvg-rec="7" catchup-days="7",НТВ (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="tnt-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-plus-7.png" tvg-rec="7" catchup-days="7",ТНТ (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="rentv-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rentv-plus-7.png" tvg-rec="7" catchup-days="7",РЕН ТВ (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rentv-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="sts-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sts-plus-7.png" tvg-rec="7" catchup-days="7",СТС (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sts-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="domashnij-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnij-plus-7.png" tvg-rec="7" catchup-days="7",Домашний (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/domashnij-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="piatnica-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/piatnica-plus-7.png" tvg-rec="7" catchup-days="7",Пятница (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/piatnica-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="yu-tv-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/yu-tv-plus-7.png" tvg-rec="7" catchup-days="7",Ю ТВ (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/yu-tv-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="tv3-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv3-plus-7.png" tvg-rec="7" catchup-days="7",ТВ3 (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv3-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="tvc-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tvc-plus-7.png" tvg-rec="7" catchup-days="7",ТВЦ (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tvc-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="zvezda-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda-plus-7.png" tvg-rec="7" catchup-days="7",Звезда (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="5kanal-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/5kanal-plus-7.png" tvg-rec="7" catchup-days="7",5 канал (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/5kanal-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="mir-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/mir-plus-7.png" tvg-rec="7" catchup-days="7",Мир (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/mir-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="otp-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/otp-plus-7.png" tvg-rec="7" catchup-days="7",ОТР (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/otp-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="rossija-k-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija-k-plus-7.png" tvg-rec="7" catchup-days="7",Россия Культура (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija-k-plus-7.m3u8
+#EXTINF:0 group-title="Россия +7ч" tvg-id="match-plus-7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/match-plus-7.png" tvg-rec="7" catchup-days="7",Матч ТВ (+7)
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/match-plus-7.m3u8
