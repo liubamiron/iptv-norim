@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj.png" tvg-rec="7" catchup-days="7",Первый канал
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj.m3u8
+http://de.russkoe-iptv.com:8080/s/pervyj.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1.png" tvg-rec="7" catchup-days="7",Россия 1
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija.m3u8
+http://de.russkoe-iptv.com:8080/s/rossija.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv.png" tvg-rec="7" catchup-days="7",НТВ
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv.m3u8
+http://de.russkoe-iptv.com:8080/s/ntv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-mir.png" tvg-rec="7" catchup-days="7",НТВ Мир
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-mir.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="http://de.russkoe-iptv.com:8080/streams/TNT.png" tvg-rec="7" catchup-days="7",ТНТ
