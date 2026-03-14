@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTGRP:Россия
 #EXTINF:0 tvg-id="Xpervy" tvg-name="Первый канал" tvg-logo="https://smotrim.uno/epglogo/1801.png" tvg-rec="5" catchup-days="7",  Первый канал
 #EXTGRP:Россия
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
