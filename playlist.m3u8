@@ -13,7 +13,7 @@ http://31.148.48.15/TNT4/index.m3u8
 https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8
 
 #EXTINF:-1 tvg-id="FridayInternational.ru@SD" tvg-logo="https://i.imgur.com/N2z3EZC.png"  tvg-rec="5" catchup-days="7", http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Entertainment",Пятница! International
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
 
 #EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png"  tvg-rec="5" catchup-days="7", http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="Undefined",СТС International
 https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
