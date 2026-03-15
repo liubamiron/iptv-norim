@@ -25,3 +25,6 @@ https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
 
 #EXTINF:-1 tvg-id="tnt" catchup="append" tvg-logo="http://epg.one/img2/tnt.png"  tvg-rec="7" catchup-days="7", group-title="Развлекательные", ТНТ
 http://31.131.141.195:8000/play/2090/index.m3u8
+
+#EXTINF:-1  tvg-rec="7" catchup-days="7", ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
