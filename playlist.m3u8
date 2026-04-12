@@ -1,32 +1,32 @@
 #EXTM3U
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj.png" tvg-rec="7" catchup-days="7",Первый канал
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/pervyj.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1.png" tvg-rec="7" catchup-days="7",Россия 1
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/rossija.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv.png" tvg-rec="7" catchup-days="7",НТВ
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/ntv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-mir.png" tvg-rec="7" catchup-days="7",НТВ Мир
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-mir.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/ntv-mir.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="http://de.russkoe-iptv.com:8080/streams/TNT.png" tvg-rec="7" catchup-days="7",ТНТ
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/TNT.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/TNT.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tnt4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-4.png" tvg-rec="7" catchup-days="7",ТНТ4
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt4.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/tnt4.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="CTC" tvg-logo="http://de.russkoe-iptv.com:8080/streams/CTC.png" tvg-rec="7" catchup-days="7",СТС
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/CTC.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/CTC.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="sts-love" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sts-love.png" tvg-rec="7" catchup-days="7",СТС Love
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sts-love.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/sts-love.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="domashnij" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnij.png" tvg-rec="7" catchup-days="7",Домашний
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/domashnij.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/domashnij.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="perec" tvg-logo="http://de.russkoe-iptv.com:8080/streams/perec.png" tvg-rec="7" catchup-days="7",Перец
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/perec.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/perec.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ren-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ren-tv.png" tvg-rec="7" catchup-days="7",РЕН ТВ
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ren-tv.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/ren-tv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tv3" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tv-3.png" tvg-rec="7" catchup-days="7",ТВ3
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tv3.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/tv3.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="4e" tvg-logo="http://de.russkoe-iptv.com:8080/streams/4e.png" tvg-rec="7" catchup-days="7",Че
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/4e.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/4e.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="zvezda" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda.png" tvg-rec="7" catchup-days="7",Звезда
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/zvezda.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="zvezda-plus" tvg-logo="http://de.russkoe-iptv.com:8080/streams/zvezda-plus.png" tvg-rec="7" catchup-days="7",Звезда Плюс
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/zvezda-plus.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="tvc" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tvc.png" tvg-rec="7" catchup-days="7",ТВЦ
@@ -488,15 +488,15 @@ http://de.russkoe-iptv.com:8080/s/rwxqe5ib/belarus-24.m3u8
 #EXTINF:0 group-title="Беларусь" tvg-id="ont-by" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ont-by.png" tvg-rec="7" catchup-days="7",ОНТ
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ont-by.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="pervyj-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj-plus-2.png" tvg-rec="7" catchup-days="7",Первый канал (+2)
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj-plus-2.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/pervyj-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="rossija1-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1-plus-2.png" tvg-rec="7" catchup-days="7",Россия 1 (+2)
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija1-plus-2.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/rossija1-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="ntv-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-plus-2.png" tvg-rec="7" catchup-days="7",НТВ (+2)
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-plus-2.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/ntv-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="tnt-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/tnt-plus-2.png" tvg-rec="7" catchup-days="7",ТНТ (+2)
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/tnt-plus-2.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/tnt-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="rentv-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rentv-plus-2.png" tvg-rec="7" catchup-days="7",РЕН ТВ (+2)
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rentv-plus-2.m3u8
+http://de.russkoe-iptv.com:8080/s/5siesl4a/rentv-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="sts-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sts-plus-2.png" tvg-rec="7" catchup-days="7",СТС (+2)
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sts-plus-2.m3u8
 #EXTINF:0 group-title="Россия +2ч" tvg-id="domashnij-plus-2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/domashnij-plus-2.png" tvg-rec="7" catchup-days="7",Домашний (+2)
