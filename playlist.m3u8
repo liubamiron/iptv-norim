@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj.png" tvg-rec="7" catchup-days="7",Первый канал
-http://de.russkoe-iptv.com:8080/s/pervyj.m3u8
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1.png" tvg-rec="7" catchup-days="7",Россия 1
-http://de.russkoe-iptv.com:8080/s/rossija.m3u8
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rossija.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv.png" tvg-rec="7" catchup-days="7",НТВ
-http://de.russkoe-iptv.com:8080/s/ntv.m3u8
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="ntv-mir" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ntv-mir.png" tvg-rec="7" catchup-days="7",НТВ Мир
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ntv-mir.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="TNT" tvg-logo="http://de.russkoe-iptv.com:8080/streams/TNT.png" tvg-rec="7" catchup-days="7",ТНТ
@@ -93,10 +93,10 @@ http://de.russkoe-iptv.com:8080/s/rwxqe5ib/rbk.m3u8
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/russia-today.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="deutsche-welle" tvg-logo="http://de.russkoe-iptv.com:8080/streams/deutsche-welle.png" tvg-rec="0" catchup-days="0",DW Russian
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/deutsche-welle.m3u8
-#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sky-news-uk.png" tvg-rec="0" catchup-days="0",Sky News
-http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sky-news-uk.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="cnn" tvg-logo="http://de.russkoe-iptv.com:8080/streams/cnn.png" tvg-rec="0" catchup-days="0",CNN
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/cnn.m3u8
+#EXTINF:0 group-title="Новости" tvg-id="sky-news-uk" tvg-logo="http://de.russkoe-iptv.com:8080/streams/sky-news-uk.png" tvg-rec="0" catchup-days="0",Sky News
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/sky-news-uk.m3u8
 #EXTINF:0 group-title="Новости" tvg-id="bbc-world-news" tvg-logo="http://de.russkoe-iptv.com:8080/streams/bbc-world-news.png" tvg-rec="0" catchup-days="0",BBC News
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/bbc-world-news.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="http://de.russkoe-iptv.com:8080/streams/kinohit.png" tvg-rec="7" catchup-days="7",Кинохит
@@ -411,6 +411,10 @@ http://de.russkoe-iptv.com:8080/s/rwxqe5ib/shanson-tv.m3u8
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erox.m3u8
 #EXTINF:0 group-title="XXX (18+)" tvg-id="super-one" tvg-logo="http://de.russkoe-iptv.com:8080/streams/super-one.png" tvg-rec="0" catchup-days="0" parent-code="0000",SuperOne
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/super-one.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="dusk-tv-hd" tvg-logo="http://de.russkoe-iptv.com:8080/streams/dusk-tv-hd.png" tvg-rec="0" catchup-days="0" parent-code="0000",Dusk TV HD
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/dusk-tv-hd.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="xxl-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/xxl-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",XXL
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/xxl-tv.m3u8
 #EXTINF:0 group-title="XXX (18+)" tvg-id="vivid-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/vivid-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",Vivid TV
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/vivid-tv.m3u8
 #EXTINF:0 group-title="XXX (18+)" tvg-id="vivid-red" tvg-logo="http://de.russkoe-iptv.com:8080/streams/vivid-red.png" tvg-rec="0" catchup-days="0" parent-code="0000",Vivid Red
@@ -421,6 +425,22 @@ http://de.russkoe-iptv.com:8080/s/rwxqe5ib/blue-hustler.m3u8
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/barely-legal.m3u8
 #EXTINF:0 group-title="XXX (18+)" tvg-id="ruskaja-noch" tvg-logo="http://de.russkoe-iptv.com:8080/streams/ruskaja-noch.png" tvg-rec="0" catchup-days="0" parent-code="0000",Русская Ночь
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/ruskaja-noch.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic1" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic1.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 1
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic1.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic2" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic2.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 2
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic2.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic3" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic3.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 3
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic3.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic4" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic4.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 4
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic4.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic5" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic5.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 5
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic5.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic6" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic6.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 6
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic6.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic7" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic7.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 7
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic7.m3u8
+#EXTINF:0 group-title="XXX (18+)" tvg-id="erotic8" tvg-logo="http://de.russkoe-iptv.com:8080/streams/erotic8.png" tvg-rec="0" catchup-days="0" parent-code="0000",Erotic 8
+http://de.russkoe-iptv.com:8080/s/rwxqe5ib/erotic8.m3u8
 #EXTINF:0 group-title="XXX (18+)" tvg-id="playboy-tv" tvg-logo="http://de.russkoe-iptv.com:8080/streams/playboy-tv.png" tvg-rec="0" catchup-days="0" parent-code="0000",Playboy TV
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/playboy-tv.m3u8
 #EXTINF:0 group-title="Украина" tvg-id="oboz-ua" tvg-logo="http://de.russkoe-iptv.com:8080/streams/oboz-ua.png" tvg-rec="7" catchup-days="7",OBOZ TV
