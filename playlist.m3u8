@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U max-conn="3" url-tvg="http://de.russkoe-iptv.com:8080/epg.xml.gz" catchup-type="shift"
 #EXTINF:0 group-title="Общероссийские" tvg-id="pervyj" tvg-logo="http://de.russkoe-iptv.com:8080/streams/pervyj.png" tvg-rec="7" catchup-days="7",Первый канал
 http://de.russkoe-iptv.com:8080/s/rwxqe5ib/pervyj.m3u8
 #EXTINF:0 group-title="Общероссийские" tvg-id="rossija" tvg-logo="http://de.russkoe-iptv.com:8080/streams/rossija1.png" tvg-rec="7" catchup-days="7",Россия 1
